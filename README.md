@@ -2,7 +2,7 @@
 - 👀 I’m interested in connecting to learn
 - 🌱 I’m currently learning how to code using CS50
 - 💞️ I’m looking to collaborate on future projects
-- 📫 How to reach me linkin 
+- 📫 How to reach me on linkedin 
 
 <!---
 glvega2020/glvega2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
